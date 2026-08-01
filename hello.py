@@ -1,4 +1,3 @@
-print("Hello World")
 first_no = 10
 second_no = 20
 sum = first_no + second_no
