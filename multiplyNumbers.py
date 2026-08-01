@@ -1,6 +1,7 @@
 result = 2 * 2
 print(result)
 
+print("Hello, Bapu!")
 result_1 = 3 * 3
 print(result_1)
 
