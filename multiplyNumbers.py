@@ -6,5 +6,3 @@ print(result_1)
 
 result_2 = 4 * 4
 print(result_2)
-
-print("Happy Sunday & Happy Coding!")
